@@ -24,7 +24,7 @@ Incluye operaciones CRUD completas, autenticación con **JWT** y manejo de base 
 
 ---
 
-## 📁 Estructura del proyecto (ejemplo)
+## 📁 Estructura del proyecto
 
 FastAPI/
 ├── db/
